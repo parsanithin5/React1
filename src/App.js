@@ -146,17 +146,28 @@
 
    //CBCStateExample
 
+// import React from 'react'
+// import CBCStateEx from './Stateexamples/CBCStateEx'
+// const App = () => {
+//   return (
+//     <div>
+//       <h1>APP</h1>
+//       <CBCStateEx />
+//     </div>
+//   )
+// }
+
+// export default App;
+  
 import React from 'react'
-import CBCStateEx from './Stateexamples/CBCStateEx'
+import FunctionalComponents from './components/FunctionalComponents';
 const App = () => {
   return (
     <div>
       <h1>APP</h1>
-      <CBCStateEx />
+      <FunctionalComponents />
     </div>
   )
 }
 
 export default App;
-  
-  
