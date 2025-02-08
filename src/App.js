@@ -160,14 +160,18 @@
 // export default App;
   
 import React from 'react'
-import FunctionalComponents from './components/FunctionalComponents';
-const App = () => {
+import MyForm from './components/myForm'
+
+
+
+function App() {
   return (
-    <div>
-      <h1>APP</h1>
-      <FunctionalComponents />
-    </div>
-  )
+    <div className="App">
+     <MyForm></MyForm>
+     </div>
+  );
 }
 
 export default App;
+
+
