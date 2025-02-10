@@ -10,4 +10,4 @@ function FunctionalComponents(props) {
   )
 }
 
-export default FunctionalComponents
+export default FunctionalComponents;
