@@ -187,13 +187,38 @@
 // export default App;
 
 
-import React from 'react'
-import RefExample from './HookExample/RefExample'
+// import React from 'react'
+// import RefExample from './HookExample/RefExample'
 
-export const App = () => {
+// export const App = () => {
+//   return (
+//     <div>
+//       <RefExample />
+//     </div>
+//   )
+// }
+// export default App;
+
+// import React from 'react'
+// import Task from './HookExample/Task'
+// export const App = () => {
+//   return (
+//     <div><h2>Bahubali-1</h2>
+//               <Task/>
+//     </div>
+//   )
+// }
+// export default App
+
+
+
+
+import React from 'react'
+import Navbar from './components1/Navbar';
+const App = () => {
   return (
     <div>
-      <RefExample />
+        <Navbar/>
     </div>
   )
 }
