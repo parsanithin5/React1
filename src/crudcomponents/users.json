@@ -1,0 +1,20 @@
+{
+    "users": [
+      {
+        "username": "JohnDoe",
+        "email": "johndoe@example.com",
+        "phone": "+1234567890"
+      },
+      {
+        "username": "JaneSmith",
+        "email": "janesmith@example.com",
+        "phone": "+1987654321"
+      },
+      {
+        "username": "MichaelBrown",
+        "email": "michaelbrown@example.com",
+        "phone": "+1122334455"
+      }
+    ]
+  }
+  
